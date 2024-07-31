@@ -22,7 +22,7 @@ const transporter = nodemailer.createTransport({
     <p>Dear contactor,</p>
     <p>Thank you for reaching out to me through my portfolio website. I have received your message and I will get back to you as soon as possible.</p>
     <p>Here's a brief introduction about myself:</p>
-    <p>[Your introduction goes here. For example: "My name is Shubham Pipaliya and I am a website backend developer with 7817853425. I specialize in node.js express.js and mongoDB."]</p>
+    <p>"My name is Shubham Pipaliya, and I am a website backend developer specializing in Node.js, Express.js, and MongoDB. You can reach me at 7817853425."</p>
     <p>Best regards,</p>
     <p>Shubham Pipaliya</p>
     <hr>
